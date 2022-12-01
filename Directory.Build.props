@@ -1,0 +1,25 @@
+<Project>
+
+  <PropertyGroup>
+	<Id>Header Editor</Id>
+	<Authors>Stephen Hickey</Authors>
+	<PackageProjectUrl>https://github.com/Coda17/HeaderEditor</PackageProjectUrl>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+	<RepositoryType>git</RepositoryType>
+	<PackageTags>headers</PackageTags>
+  </PropertyGroup>
+
+  <PropertyGroup>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+	<LangVersion>latest</LangVersion>
+	<NoWarn />
+	<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	<CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+	<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+	<InvariantGlobalization>true</InvariantGlobalization>
+	<AnalysisMode>All</AnalysisMode>
+  </PropertyGroup>
+
+</Project>

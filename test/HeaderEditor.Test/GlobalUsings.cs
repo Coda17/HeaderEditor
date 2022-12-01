@@ -1,0 +1,10 @@
+global using System.Net;
+global using FluentAssertions;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.TestHost;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Primitives;
+global using Microsoft.Net.Http.Headers;
+global using Xunit;

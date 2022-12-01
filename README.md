@@ -1,2 +1,2 @@
 # HeaderEditor
-A middleware to edits request and response headers.
+A middleware for editing request headers.
